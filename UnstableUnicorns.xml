@@ -1,0 +1,2208 @@
+<cockatrice_carddatabase version="3">
+  <sets>
+    <set>
+      <name>USU</name>
+      <longname>Unstable Unicorns</longname>
+      <settype>Custom</settype>
+      <releasedate>2019-11-29</releasedate>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Baby Unicorn (Pink)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/babypink.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Orange)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/babyorange.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Yellow)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/babyyellow.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Green)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/babygreen.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Blue)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/babyblue.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Purple)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/babypurple.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Black)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/babyblack.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (White)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/babywhite.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Brown)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/babybrown.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Rainbow)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/babyrainbow.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Death)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/babydeath.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Narwhal</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/babynarwhal.jpg">USU</set>
+    </card>
+    <card>
+      <name>Basic Unicorn (Red)</name>
+      <text>Beards are like, so hot.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/basicred.jpg">USU</set>
+    </card>
+    <card>
+      <name>Basic Unicorn (Orange)</name>
+      <text>Pumpkin spice is the pumpkin spice of life.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/basicorange.jpg">USU</set>
+    </card>
+    <card>
+      <name>Basic Unicorn (Yellow)</name>
+      <text>Dance like nobody's watching.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/basicyellow.jpg">USU</set>
+    </card>
+    <card>
+      <name>Basic Unicorn (Green)</name>
+      <text>Vinyl records and mixtapes only.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/basicgreen.jpg">USU</set>
+    </card>
+    <card>
+      <name>Basic Unicorn (Blue)</name>
+      <text>Popped collars are for date nights only.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/basicblue.jpg">USU</set>
+    </card>
+    <card>
+      <name>Basic Unicorn (Indigo)</name>
+      <text>&#x1f496;&#x1f64c;&#x1f485;&#x1f64c;&#x1f496;&#x1f481;&#x1f481;&#x1f602;&#x1f602;&#x1f602;</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/basicindigo.jpg">USU</set>
+    </card>
+    <card>
+      <name>Basic Unicorn (Purple)</name>
+      <text>#nomakeup #nofilter #sunnies #shameless #selfie #basic #TGIF #unicornhairdontcare</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/basicpurple.jpg">USU</set>
+    </card>
+    <card>
+      <name>narwhal</name>
+      <text>This card has no special powers, but it sure is cute!</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/basicnarwhal.jpg">USU</set>
+    </card>
+    <card>
+      <name>Rhinocorn</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may DESTROY a Unicorn card. If you do, immediately skip to your End of Turn phase.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/rhinocorn.jpg">USU</set>
+    </card>
+    <card>
+      <name>Extremely Fertile Unicorn</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may DISCARD a card. If you do, bring a Baby Unicorn card from the Nursery directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/extremelyfertile.jpg">USU</set>
+    </card>
+    <card>
+      <name>Magical Kittencorn</name>
+      <text>This card cannot be destroyed or otherwise affected by Magic cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/magicalkittencorn.jpg">USU</set>
+    </card>
+    <card>
+      <name>Stabby The Unicorn</name>
+      <text>If this card is sacrificed or destroyed, you may DESTROY a Unicorn card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/stabby.jpg">USU</set>
+    </card>
+    <card>
+      <name>Puppicorn</name>
+      <text>Each time any player begins their turn, move this card to that player's Stable. This card cannot be sacrificed or destroyed.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/puppicorn.jpg">USU</set>
+    </card>
+    <card>
+      <name>Rainbow Unicorn</name>
+      <text>When this card enters your Stable, you may bring a Basic Unicorn card from your hand directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/rainbow.jpg">USU</set>
+    </card>
+    <card>
+      <name>Zombie Unicorn</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may DISCARD a Unicorn card. If you do, choose a Unicorn card from the discard pile and bring it directly into your Stable, then immediately skip to your End of Turn phase.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/zombie.jpg">USU</set>
+    </card>
+    <card>
+      <name>Extremely Destructive Unicorn</name>
+      <text>When this card enters your Stable, each player must SACRIFICE a Unicorn card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/extremelydestructive.jpg">USU</set>
+    </card>
+    <card>
+      <name>Chainsaw Unicorn</name>
+      <text>When this card enters your Stable, you may SACRIFICE or DESTROY an Upgrade or Downgrade card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/chainsaw.jpg">USU</set>
+    </card>
+    <card>
+      <name>Llamacorn</name>
+      <text>When this card enters your Stable, each player must DISCARD a card. Shuffle the discard pile into the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/llamacorn.jpg">USU</set>
+    </card>
+    <card>
+      <name>Americorn</name>
+      <text>When this card enters your Stable, choose any player. Pull a card from that player's hand.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/americorn.png">USU</set>
+    </card>
+    <card>
+      <name>Ginormous Unicorn</name>
+      <text>This card counts for 2 Unicorns. You cannot play any Instant cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/ginormous.jpg">USU</set>
+    </card>
+    <card>
+      <name>Seductive Unicorn</name>
+      <text>When this card enters your Stable, STEAL a Unicorn card. If this card leaves your Stable, return that Unicorn card to the Stable from which you stole it.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/seductive.jpg">USU</set>
+    </card>
+    <card>
+      <name>Angel Unicorn</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may SACRIFICE this card. If you do, choose a Unicorn card from the discard pile and bring it directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/angel.png">USU</set>
+    </card>
+    <card>
+      <name>Queen Bee Unicorn</name>
+      <text>Basic Unicorn cards cannot enter any other player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/queenbee.jpg">USU</set>
+    </card>
+    <card>
+      <name>Greedy Flying Unicorn</name>
+      <text>When this card enters your Stable, DRAW a card. If this card would be sacrificed or destroyed, return it to your hand instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/greedyflying.jpg">USU</set>
+    </card>
+    <card>
+      <name>Annoying Flying Unicorn</name>
+      <text>When this card enters your Stable, you may choose any player. That player must DISCARD a card. If this card would be sacrificed or destroyed, return it to your hand instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/annoying.png">USU</set>
+    </card>
+    <card>
+      <name>Magical Flying Unicorn</name>
+      <text>When this card enters your Stable, you may choose a Magic card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/magicalflying.jpg">USU</set>
+    </card>
+    <card>
+      <name>Swift Flying Unicorn</name>
+      <text>When this card enters your Stable, you may choose an Instant card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/swiftflying.jpg">USU</set>
+    </card>
+    <card>
+      <name>Majestic Flying Unicorn</name>
+      <text>When this card enters your Stable, you may choose a Unicorn card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/majesticflying.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Phoenix</name>
+      <text>When this card enters your Stable, DISCARD a card. If this card is sacrificed or destroyed, bring it directly back into your Stable if you have at least 1 card in your hand.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/phoenix.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn On The Cob</name>
+      <text>When this card enters your Stable, DRAW 2 cards and DISCARD a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/unicornonthecob.jpg">USU</set>
+    </card>
+    <card>
+      <name>Black Knight Unicorn</name>
+      <text>If 1 of your Unicorn cards would be destroyed, you may SACRIFICE this card instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/blackknight.jpg">USU</set>
+    </card>
+    <card>
+      <name>Shark With A Horn</name>
+      <text>When this card enters your Stable, you may SACRIFICE this card. If you do, DESTROY a Unicorn card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/sharkwithahorn.jpg">USU</set>
+    </card>
+    <card>
+      <name>Shabby The Narwhal</name>
+      <text>When this card enters your Stable, you may search the deck for a Downgrade card and add it to your hand. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/shabby.jpg">USU</set>
+    </card>
+    <card>
+      <name>Narwhal Torpedo</name>
+      <text>When this card enters your Stable, SACRIFICE all Downgrade cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/narwhaltorpedo.jpg">USU</set>
+    </card>
+    <card>
+      <name>Alluring Narwhal</name>
+      <text>When this card enters your Stable, you may STEAL an Upgrade card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/alluring.png">USU</set>
+    </card>
+    <card>
+      <name>Mermaid Unicorn</name>
+      <text>When this card enters your Stable, you may choose any player. Return a card in that player's Stable to their hand.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/mermaid.jpg">USU</set>
+    </card>
+    <card>
+      <name>Classy Narwhal</name>
+      <text>When this card enters your Stable, you may search the deck for an Upgrade card and add it to your hand. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/classynarwhal.jpg">USU</set>
+    </card>
+    <card>
+      <name>The Great Narwhal</name>
+      <text>When this card enters your Stable, you may search the deck for a card with "Narwhal" in its name and add it to your hand. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/thegreatnarwhal.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Poison</name>
+      <text>DESTROY a Unicorn card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/unicornpoison.jpg">USU</set>
+    </card>
+    <card>
+      <name>Back Kick</name>
+      <text>Choose any player. Return a card in that player's Stable to their hand. That player must DISCARD a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/backkick.jpg">USU</set>
+    </card>
+    <card>
+      <name>Change Of Luck</name>
+      <text>DRAW 2 cards and DISCARD 3 cards, then take another turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/changeofluck.jpg">USU</set>
+    </card>
+    <card>
+      <name>Glitter Tornado</name>
+      <text>Return a card in each player's Stable to that player's hand.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/glittertornado.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Swap</name>
+      <text>Move a Unicorn card in your Stable to any other player's Stable, then STEAL a Unicorn card from that player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/unicornswap.jpg">USU</set>
+    </card>
+    <card>
+      <name>Re-Target</name>
+      <text>Move an Upgrade or Downgrade card from any player's Stable to any other player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/retarget.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unfair Bargain</name>
+      <text>Trade hands with any other player.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/unfairbargain.jpg">USU</set>
+    </card>
+    <card>
+      <name>Two-For-One</name>
+      <text>SACRIFICE a card, then DESTROY 2 cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/twoforone.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Shrinkray</name>
+      <text>Choose any player. Move all of that player's Unicorn cards to the discard pile without triggering any of their effects, then bring the same number of Baby Unicorn cards from the Nursery directly into that player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/unicornshrinkray.jpg">USU</set>
+    </card>
+    <card>
+      <name>Targeted Destruction</name>
+      <text>SACRIFICE or DESTROY an Upgrade or Downgrade card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/targeteddestruction.jpg">USU</set>
+    </card>
+    <card>
+      <name>Mystical Vortex</name>
+      <text>Each player must DISCARD a card. Shuffle the discard pile into the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/mysticalvortex.jpg">USU</set>
+    </card>
+    <card>
+      <name>Good Deal</name>
+      <text>DRAW 3 cards and DISCARD a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/gooddeal.jpg">USU</set>
+    </card>
+    <card>
+      <name>Shake Up</name>
+      <text>Shuffle this card, your hand, and the discard pile into the deck. DRAW 5 cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/shakeup.jpg">USU</set>
+    </card>
+    <card>
+      <name>Blatant thievery</name>
+      <text>Choose any player and look at that player's hand. Choose a card from that player's hand and add it to your hand.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/blatantthievery.jpg">USU</set>
+    </card>
+    <card>
+      <name>Reset Button</name>
+      <text>Each player must SACRIFICE all Upgrade and Downgrade cards. Shuffle the discard pile into the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/resetbutton.jpg">USU</set>
+    </card>
+    <card>
+      <name>Rainbow Mane</name>
+      <text>This card can only enter a Stable if there is a Basic Unicorn card in that Stable. If this card is in your Stable at the beginning of your turn, you may bring a Basic Unicorn card from your hand directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/rainbowmane.jpg">USU</set>
+    </card>
+    <card>
+      <name>Extra Tail</name>
+      <text>This card can only enter a Stable if there is a Basic Unicorn card in that Stable. If this card is in your Stable at the beginning of your turn, you may DRAW an extra card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/extratail.jpg">USU</set>
+    </card>
+    <card>
+      <name>Glitter Bomb</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may SACRIFICE a card. If you do, DESTROY a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/glitterbomb.jpg">USU</set>
+    </card>
+    <card>
+      <name>Yay</name>
+      <text>Cards you play cannot be Neigh'd.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/yay.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Lasso</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may STEAL a Unicorn card. At the end of your turn, return that Unicorn card to the Stable from which you stole it.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/unicornlasso.jpg">USU</set>
+    </card>
+    <card>
+      <name>Rainbow Aura</name>
+      <text>Your Unicorn cards cannot be destroyed.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/rainbowaura.jpg">USU</set>
+    </card>
+    <card>
+      <name>Double Dutch</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may play 2 cards during your Action phase.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/doubledutch.jpg">USU</set>
+    </card>
+    <card>
+      <name>Summoning Ritual</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may DISCARD 2 Unicorn cards. If you do, bring a Unicorn card directly from the discard pile into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/summoningritual.jpg">USU</set>
+    </card>
+    <card>
+      <name>Barbed wire</name>
+      <text>Each time a Unicorn card enters or leaves your stable, DISCARD a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/barbedwire.jpg">USU</set>
+    </card>
+    <card>
+      <name>Pandamonium</name>
+      <text>All of your Unicorns are considered Pandas. Cards that affect Unicorn cards do not affect your Pandas.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/pandamonium.jpg">USU</set>
+    </card>
+    <card>
+      <name>Sadistic Ritual</name>
+      <text>If this card is in your Stable at the beginning of your turn, SACRIFICE a Unicorn card, then DRAW a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/sadisticritual.jpg">USU</set>
+    </card>
+    <card>
+      <name>Slowdown</name>
+      <text>You cannot play Instant cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/slowdown.jpg">USU</set>
+    </card>
+    <card>
+      <name>Nanny Cam</name>
+      <text>
+        Your hand must be visible to all players at all times.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/nannycam.jpg">USU</set>
+    </card>
+    <card>
+      <name>Broken Stable</name>
+      <text>You cannot play Upgrade cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/brokenstable.jpg">USU</set>
+    </card>
+    <card>
+      <name>Blinding light</name>
+      <text>Triggered effects of your Unicorn cards do not activate.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/blindinglight.jpg">USU</set>
+    </card>
+    <card>
+      <name>Tiny Stable</name>
+      <text>If at any time you have more than 5 Unicorns in your Stable, SACRIFICE a Unicorn card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/tinystable.jpg">USU</set>
+    </card>
+    <card>
+      <name>Neigh</name>
+      <text>Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/neigh.jpg">USU</set>
+    </card>
+    <card>
+      <name>Super Neigh</name>
+      <text>Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile. This card cannot be Neigh'd.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-001.png">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Sparkles)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/babysparkles.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Flowers)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/babyflowers.jpg">USU</set>
+    </card>
+    <card>
+      <name>Horse With An Ice Cream Cone</name>
+      <text>Ice cream always saves the day!</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/horsewithanicecreamcone.jpg">USU</set>
+    </card>
+    <card>
+      <name>Innocent Bunnicorn</name>
+      <text>Look, Mom! I'm a unicorn!</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/innocentbunnicorn.jpg">USU</set>
+    </card>
+    <card>
+      <name>Glitter Unicorn</name>
+      <text>When this card enters your Stable, you may bring an Upgrade card from your hand directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/glitter.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Rainbow Princess</name>
+      <text>When this card enters your Stable, choose any number of players. DRAW cards equal to the number of chosen players. Each of those players may DRAW a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/unicornrainbowprincess.jpg">USU</set>
+    </card>
+    <card>
+      <name>Cotton Candy Llamacorn</name>
+      <text>When this card enters your Stable, each player must SACRIFICE a Unicorn card, then DRAW a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/cottoncandyllamacorn.jpg">USU</set>
+    </card>
+    <card>
+      <name>The Tiniest Unicorn</name>
+      <text>This card cannot be destroyed by triggered card effects.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/thetiniest.jpg">USU</set>
+    </card>
+    <card>
+      <name>Adorable Flying Unicorn</name>
+      <text>When this card enters your Stable, each player must SACRIFICE a card. If this card would be sacrificed or destroyed, return it to your hand instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/adorableflying.jpg">USU</set>
+    </card>
+    <card>
+      <name>A Cute Attack</name>
+      <text>Choose any player. Move up to 3 Unicorn cards from that player's Stable to the discard pile without triggering any of their effects, then bring the same number of Baby Unicorn cards from the Nursery directly into that player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/acuteattack.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Nap</name>
+      <text>Choose any player. That player must skip their next turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/unicornnap.jpg">USU</set>
+    </card>
+    <card>
+      <name>Tiny Hooves</name>
+      <text>Your hand limit is 3 cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/tinyhooves.jpg">USU</set>
+    </card>
+    <card>
+      <name>Cupcakes For Everyone</name>
+      <text>All of your Upgrade cards affect each player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/cupcakesforeveryone.jpg">USU</set>
+    </card>
+    <card>
+      <name>Rainbow Sprinkles</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may DRAW 3 cards. If you do, immediately skip to your End of Turn phase.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/rainbowsprinkles.jpg">USU</set>
+    </card>
+    <card>
+      <name>Special Delivery</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may bring a Baby Unicorn card from the Nursery directly into your Stable. If you do, skip your Action phase.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/specialdelivery.jpg">USU</set>
+    </card>
+    <card>
+      <name>Neigh</name>
+      <text>Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/neigh.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Of Death</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may SACRIFICE a Unicorn card. If you do, DESTROY a Unicorn card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/apocalypse/unicornofdeath.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Of Pestilence</name>
+      <text>When this card enters your Stable, each player must DISCARD their hand.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/apocalypse/unicornofpestilence.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Of War</name>
+      <text>When this card enters your Stable, choose any number of players. DESTROY a Unicorn card in each of their Stables. Each of the chosen players may then DESTROY a Unicorn card in your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/apocalypse/unicornofwar.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Of Famine</name>
+      <text>Each player has a hand limit of 2 cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/apocalypse/unicornoffamine.jpg">USU</set>
+    </card>
+    <card>
+      <name>Heavenly Smite</name>
+      <text>SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for an "Angel Unicorn" card and bring it directly into your Stable. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/apocalypse/heavenlysmite.jpg">USU</set>
+    </card>
+    <card>
+      <name>Overpopulation</name>
+      <text>SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for an "Extremely Fertile Unicorn" card and bring it directly into your Stable. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/apocalypse/overpopulation.jpg">USU</set>
+    </card>
+    <card>
+      <name>Plague Of Death</name>
+      <text>SACRIFICE any number of cards, then DESTROY the same number of cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/apocalypse/plagueofdeath.jpg">USU</set>
+    </card>
+    <card>
+      <name>Storm Of Cuteness</name>
+      <text>SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for a "Kittencorn" card and bring it directly into your Stable. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/apocalypse/stormofcuteness.jpg">USU</set>
+    </card>
+    <card>
+      <name>Fire And Brimstone</name>
+      <text>SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for a "Unicorn Phoenix" card and bring it directly into your Stable. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/apocalypse/fireandbrimstone.jpg">USU</set>
+    </card>
+    <card>
+      <name>Zombie Apocalypse</name>
+      <text>SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for a "Zombie Unicorn" card and bring it directly into your Stable. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/apocalypse/zombieapocalypse.jpg">USU</set>
+    </card>
+    <card>
+      <name>Llamapocalypse</name>
+      <text>SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for a "Llamacorn" card and bring it directly into your Stable. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/apocalypse/llamapocalypse.jpg">USU</set>
+    </card>
+    <card>
+      <name>Ultimate Destruction</name>
+      <text>SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for an "Extremely Destructive Unicorn" card and bring it directly into your Stable. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/apocalypse/ultimatedestruction.jpg">USU</set>
+    </card>
+    <card>
+      <name>Unicorn With a Dragon Tattoo</name>
+      <text>At least it's not a lower back tattoo...</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/dragons/unicornwithadragontattoo.jpg">USU</set>
+    </card>
+    <card>
+      <name>Dragon Cosplay Unicorn</name>
+      <text>It's not a costume. It's a way of life.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/dragons/dragoncosplay.jpg">USU</set>
+    </card>
+    <card>
+      <name>Dragon Slayer Unicorn</name>
+      <text>As long as this card is in your Stable, your Unicorns cannot be destroyed or affected by any card with "Dragon" in its name.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/dragons/dragonslayer.jpg">USU</set>
+    </card>
+    <card>
+      <name>Dragon Tamer Unicorn</name>
+      <text>When this card enters your Stable, you may search the deck for a card with "Dragon" in its name. Add it to your hand, then shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/dragons/dragontamer.jpg">USU</set>
+    </card>
+    <card>
+      <name>Dragon Rider Unicorn</name>
+      <text>When this card enters your Stable, you may move an UPGRADE or DOWNGRADE card from any player's Stable to another player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/dragons/dragonrider.jpg">USU</set>
+    </card>
+    <card>
+      <name>Dragon Unicorn</name>
+      <text>If this card leaves your Stable, you may DESTROY a Unicorn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/dragons/dragon.jpg">USU</set>
+    </card>
+    <card>
+      <name>Dragon-Scorched Stables</name>
+      <text>Each player must SACRIFICE all Upgrade and Downgrade cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/dragons/dragonscorchedstables.jpg">USU</set>
+    </card>
+    <card>
+      <name>Dragon Kiss</name>
+      <text>Search the deck for a Magic card. Play it immediately, then shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/dragons/dragonkiss.jpg">USU</set>
+    </card>
+    <card>
+      <name>Dragon Skies</name>
+      <text>If this card is in your Stable at the beginning of your turn, you must shuffle a Unicorn from your stable into the deck, then DRAW an extra card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/dragons/dragonskies.jpg">USU</set>
+    </card>
+    <card>
+      <name>Neigh</name>
+      <text>Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/neigh.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Grenade)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/nsfw/babygrenade.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Upside Down)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/nsfw/babyupsidedown.jpg">USU</set>
+    </card>
+    <card>
+      <name>Baby Unicorn (Snake)</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/nsfw/babysnake.jpg">USU</set>
+    </card>
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    undefined
+    <card>
+      <name>Neigh</name>
+      <text>Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/neigh.jpg">USU</set>
+    </card>
+    <card>
+      <name>Neigh</name>
+      <text>Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/neigh.jpg">USU</set>
+    </card>
+    <card>
+      <name>Neigh</name>
+      <text>Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/neigh.jpg">USU</set>
+    </card>
+    <card>
+      <name>Neigh</name>
+      <text>Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/neigh.jpg">USU</set>
+    </card>
+    <card>
+      <name>Nightmare Unicorn</name>
+      <text>When this card enters your Stable, SACRIFICE 3 cards. If this card is in your Stable at the beginning of your turn, you may choose a Unicorn card from the discard pile and bring it directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-018.png">USU</set>
+    </card>
+    <card>
+      <name>Epic Level Unicorn</name>
+      <text>When this card enters your Stable, SACRIFICE 2 Unicorn cards. Each time you DESTROY a card, you may DESTROY a second card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-025.png">USU</set>
+    </card>
+    <card>
+      <name>Frankencorn</name>
+      <text>When this card enters your Stable, DISCARD a card. When any other player tries to play a card, you may SACRIFICE this card. If you do, add that card to your hand instead, then immediately play it.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-020.png">USU</set>
+    </card>
+    <card>
+      <name>Puppetmaster Unicorn</name>
+      <text>When this card enters your Stable, DISCARD a card. Each time you DISCARD a card, you may choose up to 2 other players. Each of those players must also DISCARD a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-021.png">USU</set>
+    </card>
+    <card>
+      <name>Shadow Unicorn</name>
+      <text>When this card enters your Stable, SACRIFICE a Unicorn card. When a Unicorn card in any other player's Stable would be sacrificed or returned to a player's hand, you may DISCARD up to 2 cards. If you DISCARD 1 card, add that card to your hand instead. If you DISCARD 2 cards, bring that card directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-022.png">USU</set>
+    </card>
+    <card>
+      <name>The Reaper Unicorn</name>
+      <text>When this card enters your Stable, SACRIFICE a Unicorn card. If this card is in your Stable at the beginning of your turn, you may SACRIFICE an Upgrade card in your Stable, then DESTROY 2 Unicorn cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-019.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Of Foreboding Doom</name>
+      <text>When this card enters your Stable, SACRIFICE a Unicorn card. When any player plays an Upgrade card in their Stable, you may DISCARD a card. If you do, search the deck for a Downgrade card and bring it directly into that player's Stable. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-026.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Of Misfortune</name>
+      <text>When this card enters your Stable, DISCARD 2 cards. If this card is in your Stable at the beginning of your turn, each other player must DISCARD a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-024.png">USU</set>
+    </card>
+    <card>
+      <name>Valkyrie Unicorn</name>
+      <text>When this card enters your Stable, SACRIFICE a Unicorn card. If this card is in your Stable at the beginning of your turn, you may SACRIFICE a Unicorn card. If you do, bring a Unicorn card from the discard pile directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-017.png">USU</set>
+    </card>
+    <card>
+      <name>Manticore Unicorn</name>
+      <text>When this card enters your Stable, SACRIFICE 2 cards. If this card is in your Stable at the beginning of your turn, you may choose a card from the discard pile and add it to your hand. If you do, skip your Draw phase.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/manticore_unicorn.jpg">USU</set>
+    </card>
+    <card>
+      <name>Archangel Unicorn</name>
+      <text>When this card enters your Stable, SACRIFICE 3 cards, if a card in your Stable would be sacrificed or destroyed, you may DISCARD a card instead. If this card is in your Stable at the beginning of your turn, you may DRAW and extra card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-017.png">USU</set>
+    </card>
+    <card>
+      <name>Chronocorn</name>
+      <text>When this card enters your Stable, DISCARD a card. This card can be played as an instant card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-025.png">USU</set>
+    </card>
+    <card>
+      <name>Elusive Oceloticorn</name>
+      <text>When this card enters your Stable, SACRIFICE 2 Unicorn cards. No other player may play Neigh cards. This card cannot be Neigh'd.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-026.png">USU</set>
+    </card>
+    <card>
+      <name>Game Master Unicorn</name>
+      <text>When this card enters your Stable, DISCARD your hand. If this card is in your Stable at the beginning of your turn, you may DRAW an extra card. Your hand limit increases by 3 cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-023.png">USU</set>
+    </card>
+    <card>
+      <name>Nine-Tailed Foxicorn</name>
+      <text>When this card enters your Stable, SACRIFICE 2 Unicorn cards, then search the deck for a Unicorn card and bring it directly into your Stable. Shuffle the deck. If this card is sacrificed or destroyed, you may search the deck for a Unicorn card and bring it directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-020.png">USU</set>
+    </card>
+    <card>
+      <name>The Rad Scientist Unicorn</name>
+      <text>When this card enters your Stable, SACRIFICE a card. If a card in your Stable would be destroyed, you may DISCARD 2 cards instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-022.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Of Conniving Artistry</name>
+      <text>When this card enters your Stable, SACRIFICE a Unicorn card. If one of your Unicorn cards would be destroyed, you may SACRIFICE an Upgrade or Downgrade card instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-021.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Of Glory</name>
+      <text>When this card enters your Stable, DISCARD a card. When any other player plays a Downgrade card in your Stable, search the deck for an Upgrade card and bring it directly into your Stable. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-018.png">USU</set>
+    </card>
+    <card>
+      <name>Time-Shifting Unicorn</name>
+      <text>When this card enters your Stable, SACRIFICE 2 cards. If this card is in your Stable at the beginning of your turn, you may look at the top 3 cards of the deck, then return them in any order.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/time-shifting_unicorn.jpg">USU</set>
+    </card>
+    <card>
+      <name>Sniper Unicorn</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may DESTROY a Upgrade card. If you do, skip your Action Phase.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-061.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Of Betrayal</name>
+      <text>When this card enters your Stable, you may DESTROY a Unicorn card. If this card would be destroyed by any other player's card, that player may STEAL it instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-062.png">USU</set>
+    </card>
+    <card>
+      <name>Kittencorn Burglar</name>
+      <text>DISCARD a card, then search the discard pile for a Unicorn card and bring it directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-044.png">USU</set>
+    </card>
+    <card>
+      <name>Absorb And Reflect</name>
+      <text>Play this card when any other player tries to play a Magic card. Stop that card from being played and add it to your hand, then immediately play it.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-003.png">USU</set>
+    </card>
+    <card>
+      <name>Intervention</name>
+      <text>Play this card when any other player tries to SACRIFICE a card. Stop the sacrifice effect and choose any player. SACRIFICE or DESTROY a card in that player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-006.png">USU</set>
+    </card>
+    <card>
+      <name>Redirect</name>
+      <text>Play this card when an effect would DESTROY a Unicorn card. Choose the target of that destruction effect.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-005.png">USU</set>
+    </card>
+    <card>
+      <name>Trapped Chest</name>
+      <text>Play this card when any other player tries to DRAW a card. Stop that player from drawing the card. That player must DISCARD a card instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-004.png">USU</set>
+    </card>
+    <card>
+      <name>Nightmare Pact</name>
+      <text>When this card enters your Stable, name a type of card. If this card is in your Stable at the beginning of your turn, you may bring a card of that type from the discard pile directly into your Stable, then immediately end your turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Chao-090.png">USU</set>
+    </card>
+    <card>
+      <name>Hypnocorn</name>
+      <text>When any other player tries to trigger a Unicorn card effect, you may DISCARD a card. If you do, stop that effect from triggering.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-061.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Of Charity</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may DRAW an extra card. If you do, each other player may DRAW a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-062.png">USU</set>
+    </card>
+    <card>
+      <name>Rainbow Bridge</name>
+      <text>DRAW a card. If it's an Upgrade, Downgrade, or Unicorn card, bring that card directly into your Stable, then DRAW another card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-043.png">USU</set>
+    </card>
+    <card>
+      <name>Bulletproof Vest</name>
+      <text>Play this card when any other player tries to DESTROY a card in your Stable. Stop the destruction effect and DRAW a card instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-004.png">USU</set>
+    </card>
+    <card>
+      <name>Destabilize</name>
+      <text>Play this card with any other player tries to play an Upgrade or Downgrade card. Choose the Stable that card enters.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-005.png">USU</set>
+    </card>
+    <card>
+      <name>Imitation</name>
+      <text>Play this card when any other player tries to play a Unicorn card. Bring a Basic Unicorn card from your hand directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-006.png">USU</set>
+    </card>
+    <card>
+      <name>Unwind And Rewind</name>
+      <text>Play this card when any other player tries to play a card. Stop that card from coming into play, then add it to the top of the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-003.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Bribe</name>
+      <text>If one of your Unicorn cards would be sacrificed or destroyed, you may SACRIFICE an Upgrade or Downgrade card instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-090.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Tax</name>
+      <text>Each time you DRAW a least 1 card, DISCARD a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-Cntl-027.png">USU</set>
+    </card>
+    <card>
+      <name>Angelic Baby Unicorn</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-011.png">USU</set>
+    </card>
+    <card>
+      <name>Baby Archangel Unicorn</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-015.png">USU</set>
+    </card>
+    <card>
+      <name>Baby Bearicorn</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-013.png">USU</set>
+    </card>
+    <card>
+      <name>Baby Belugacorn</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-007.png">USU</set>
+    </card>
+    <card>
+      <name>Baby Nightmare Unicorn</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-016.png">USU</set>
+    </card>
+    <card>
+      <name>Baby Pegacorn</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-008.png">USU</set>
+    </card>
+    <card>
+      <name>Baby Penguincorn</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-012.png">USU</set>
+    </card>
+    <card>
+      <name>Baby Slothicorn</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-009.png">USU</set>
+    </card>
+    <card>
+      <name>Demonic Baby Unicorn</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-010.png">USU</set>
+    </card>
+    <card>
+      <name>Million Dollar Baby Unicorn</name>
+      <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-014.png">USU</set>
+    </card>
+    <card>
+      <name>Corn On The Cob</name>
+      <text>Insert corny pun here.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-041.png">USU</set>
+    </card>
+    <card>
+      <name>Raccoonicorn</name>
+      <text>One Unicorn's trash is another Raccoonicorns's hat.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-036.png">USU</set>
+    </card>
+    <card>
+      <name>Red Pandacorn</name>
+      <text>"I'm not a fox, I just look foxy!"</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-039.png">USU</set>
+    </card>
+    <card>
+      <name>Suburban Dadicorn</name>
+      <text>"Hi, hungry! I'm Dad!"</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-037.png">USU</set>
+    </card>
+    <card>
+      <name>Tech Supporticorn</name>
+      <text>"Have you tried turning it off and then on again?"</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-040.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Tourist</name>
+      <text>"We're not lost! We're on an adventure!"</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-042.png">USU</set>
+    </card>
+    <card>
+      <name>Weeniecorn</name>
+      <text>Hold the relish!</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-038.png">USU</set>
+    </card>
+    <card>
+      <name>Academicorn</name>
+      <text>When this card enters your Stable, you may move an Upgrade card from your Stable to any other player's Stable. If you do, STEAL an Upgrade card from that player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-073.png">USU</set>
+    </card>
+    <card>
+      <name>Alchemist Unicorn</name>
+      <text>When this card enters your Stable, you may choose any player. DESTROY a Unicorn card in that player's Stable, then search the deck for a Unicorn card and bring it directly into that player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-076.png">USU</set>
+    </card>
+    <card>
+      <name>Dread Pirate Unicorn</name>
+      <text>Each time a player would DISCARD a card, that player must DISCARD 2 cards instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-083.png">USU</set>
+    </card>
+    <card>
+      <name>Excited Sealicorn</name>
+      <text>When this card enters your Stable, you may DISCARD a card. If you do, bring an UPGRADE card from your hand directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-075.png">USU</set>
+    </card>
+    <card>
+      <name>Fortune Teller Unicorn</name>
+      <text>When this card enters your Stable, you may look at the top 3 cards of the deck. Move any number of those cards to the discard pile, then return the rest to the top of the deck in any order.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-078.png">USU</set>
+    </card>
+    <card>
+      <name>Foxicorn</name>
+      <text>When this card enters your Stable, you may choose any player. That player must shuffle their hand into the deck, then DRAW 3 cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-077.png">USU</set>
+    </card>
+    <card>
+      <name>Lady Justice Unicorn</name>
+      <text>When this card enters your Stable, you may move a Unicorn card from the Stable with the most Unicorns to the Stable with the fewest Unicorns.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-089.png">USU</set>
+    </card>
+    <card>
+      <name>Mama Unicorn</name>
+      <text>When this card enters your Stable, you may DISCARD a card. If you do, bring a Baby Unicorn card from the Nursery directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-074.png">USU</set>
+    </card>
+    <card>
+      <name>Mutually Assured Destructicorn</name>
+      <text>If this card is sacrificed or destroyed, each player must SACRIFICE a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-071.png">USU</set>
+    </card>
+    <card>
+      <name>Nannycorn</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may bring a Baby Unicorn card from the Nursery directly into your Stable. If you do, do not play a card from your hand during your Action phase.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-079.png">USU</set>
+    </card>
+    <card>
+      <name>Nymphicorn</name>
+      <text>If this card is in your Stable at the beginning of your turn, each player that does not have a Magical Unicorn card in their Stable must DISCARD a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-069.png">USU</set>
+    </card>
+    <card>
+      <name>Parallel Universicorn</name>
+      <text>Each time a player would DISCARD a card, that player may DRAW a card instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-084.png">USU</set>
+    </card>
+    <card>
+      <name>Patient Zero Unicorn</name>
+      <text>Each time a player would SACRIFICE a card, that player must SACRIFICE 2 cards instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-085.png">USU</set>
+    </card>
+    <card>
+      <name>Pickpocket Unicorn</name>
+      <text>When this card leaves your Stable, you may choose any other player. Pull a card from that player's hand and add it to your hand.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-066.png">USU</set>
+    </card>
+    <card>
+      <name>Pied Pipercorn</name>
+      <text>When any other player tries to bring a Baby Unicorn card from the Nursery into their Stable, you may DISCARD a card. If you do, bring that *Baby Unicorn card directly into your Stable instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-080.png">USU</set>
+    </card>
+    <card>
+      <name>Regifting Unicorn</name>
+      <text>When this card enters your Stable, you may move a Downgrade card from your Stable to any other player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-086.png">USU</set>
+    </card>
+    <card>
+      <name>Sacrificial Lambicorn</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may SACRIFICE it. If you do, DISCARD your hand and DRAW 5 cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-065.png">USU</set>
+    </card>
+    <card>
+      <name>Slothicorn</name>
+      <text>Triggered effects of your Magical Unicorn cards do not activate.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-072.png">USU</set>
+    </card>
+    <card>
+      <name>Spy Unicorn</name>
+      <text>When this card enters your Stable, choose any other player. That player must show you their hand.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-070.png">USU</set>
+    </card>
+    <card>
+      <name>Traffic Director Unicorn</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may move an Upgrade or Downgrade card from any player's Stable to any other player's Stable. If you do, skip your Action phase.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-068.png">USU</set>
+    </card>
+    <card>
+      <name>Trojan Unicorn</name>
+      <text>When any other player plays a Unicorn card, you may SACRIFICE this card. If you do, STEAL that Unicorn card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-087.png">USU</set>
+    </card>
+    <card>
+      <name>Twin Unicorns</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may DISCARD a card. If you do, play 2 cards during your Action phase.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-067.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Prophet</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may look at the top 2 cards of the deck and return them in the same order.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-088.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Trap Master</name>
+      <text>When this card enters your Stable, you may DISCARD a card. If you do, bring a DOWNGRADE card from your hand directly into any player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-063.png">USU</set>
+    </card>
+    <card>
+      <name>Wrecking Ball Unicorn</name>
+      <text>This card cannot be Neigh'd.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-081.png">USU</set>
+    </card>
+    <card>
+      <name>Controlled Destruction</name>
+      <text>DESTROY a card in any player's Stable without triggering any of it's triggered effects.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-045.png">USU</set>
+    </card>
+    <card>
+      <name>Grow Up</name>
+      <text>SACRIFICE a Baby Unicorn card, then search the deck for a Unicorn card and bring it directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-046.png">USU</set>
+    </card>
+    <card>
+      <name>Merry-Go-Round</name>
+      <text>Each player must pass their hand to the player on their left.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-047.png">USU</set>
+    </card>
+    <card>
+      <name>Prospecting</name>
+      <text>Flip one card at a time from the top of the deck into the discard pile until you find a Unicorn card. Bring that card directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-052.png">USU</set>
+    </card>
+    <card>
+      <name>Quid Pro Quo</name>
+      <text>DRAW 4 cards and DISCARD 4 cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-054.png">USU</set>
+    </card>
+    <card>
+      <name>Rainbow Bazooka</name>
+      <text>Choose any other player, DESTROY a Unicorn card in that player's Stable. You and that player may each DRAW a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-050.png">USU</set>
+    </card>
+    <card>
+      <name>Spring Cleaning</name>
+      <text>DISCARD any number of cards. Choose a number of players equal to the number of cards you discarded, then DESTROY a Unicorn card in each of their Stables.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-048.png">USU</set>
+    </card>
+    <card>
+      <name>Temporal Paradox</name>
+      <text>Return a card in any player's Stable to that player's hand and DRAW a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-051.png">USU</set>
+    </card>
+    <card>
+      <name>Time Rift</name>
+      <text>Choose any player. Return all cards in that player's Stable to that player's hand, then immediately bring the same cards directly into that player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-059.png">USU</set>
+    </card>
+    <card>
+      <name>Totally Not Two Unicorns</name>
+      <text>DRAW a card, then play 2 cards from your hand. Skip your next turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-049.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Black Market</name>
+      <text>Choose any other player and look at that player's hand. Choose 2 cards from that player's hand and add them to your hand. That player may look at your hand and choose a card from it to add to their hand. That player may not choose either card you chose.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-057.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Trap</name>
+      <text>STEAL a Unicorn card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-055.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorns Forever</name>
+      <text>Shuffle the discard pile into the deck. Search the deck for a Unicorn card and bring that card directly into your Stable. Each other player may DRAW a card. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-060.png">USU</set>
+    </card>
+    <card>
+      <name>Unicornucopia</name>
+      <text>DRAW cards until you reach your hand limit. Each other player may DRAW 2 cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-058.png">USU</set>
+    </card>
+    <card>
+      <name>Wishing Well</name>
+      <text>DISCARD a card, then DRAW 3 cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-053.png">USU</set>
+    </card>
+    <card>
+      <name>Neigh</name>
+      <text>Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/neigh.jpg">USU</set>
+    </card>
+    <card>
+      <name>Neigh</name>
+      <text>Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/base/neigh.jpg">USU</set>
+    </card>
+    <card>
+      <name>Super Neigh</name>
+      <text>Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile. This card cannot be Neigh'd.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-001.png">USU</set>
+    </card>
+    <card>
+      <name>Controlled Chaos</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may DISCARD 2 cards. If you do, you may choose to either DESTROY a Unicorn card OR search the deck for a Unicorn card and add it to your hand.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-096.png">USU</set>
+    </card>
+    <card>
+      <name>Extra Life</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may DISCARD 2 cards. If you do, SACRIFICE or DESTROY a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-094.png">USU</set>
+    </card>
+    <card>
+      <name>Foresight</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may look at the top 3 cards of the deck. If you do, add one of them to your hand, then shuffle the other 2 back into the deck and skip your Draw phase.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-092.png">USU</set>
+    </card>
+    <card>
+      <name>Glass Half Full</name>
+      <text>Each time a Downgrade card enters your Stable, you may search for an Upgrade card and bring it directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-099.png">USU</set>
+    </card>
+    <card>
+      <name>Imaginary Friendicorn</name>
+      <text>If you have a Baby Unicorn card in your Stable, you need 1 fewer Unicorn to win.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-098.png">USU</set>
+    </card>
+    <card>
+      <name>Retribution</name>
+      <text>Each time any other player destroys a Unicorn card in your Stable, you may DESTROY a Unicorn card that in that player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-095.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Adoption Agency</name>
+      <text>If you have two or more Basic Unicorn cards in your Stable at the beginning of your turn, you may DISCARD a card. If you do, bring a Baby Unicorn card from the Nursery directly into your Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-093.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Mafia</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may DISCARD 2 cards. If you do, SACRIFICE or DESTROY a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-097.png">USU</set>
+    </card>
+    <card>
+      <name>Anti-Magic Bubble</name>
+      <text>When this card enters your Stable, SACRIFICE all Downgrade cards. You cannot play Magic cards. If a Downgrade card enters your Stable, SACRIFICE this card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-030.png">USU</set>
+    </card>
+    <card>
+      <name>Black Hole</name>
+      <text>If this card is in your Stable at the beginning of your turn, SACRIFICE a Magical Unicorn card. Search the deck for a Basic Unicorn card and bring it directly into your Stable if there is one. Shuffle the deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-028.png">USU</set>
+    </card>
+    <card>
+      <name>Brain Freeze</name>
+      <text>You cannot play Instant cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-034.png">USU</set>
+    </card>
+    <card>
+      <name>Catastrophe</name>
+      <text>All of your Unicorns are considered Cats. Cards that affect Unicorn cards do not affect your Cats. Triggered effects of your Cats, do not trigger.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-031.png">USU</set>
+    </card>
+    <card>
+      <name>Greener Pastures</name>
+      <text>If this card is in your Stable at the beginning of your turn, you may DISCARD 3 cards. If you do, SACRIFICE this card. If you don't, move a Unicorn card from your Stable to any other player's Stable.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-029.png">USU</set>
+    </card>
+    <card>
+      <name>Otter Devastation</name>
+      <text>All of your Unicorns are considered Otters. Cards that affect Unicorn cards do not affect your Otters.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-032.png">USU</set>
+    </card>
+    <card>
+      <name>Restricted Area</name>
+      <text>When this card enters your Stable, SACRIFICE all Downgrade cards. You cannot play Magical Unicorn cards. If a Downgrade card enters your Stable, SACRIFICE this card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-033.png">USU</set>
+    </card>
+    <card>
+      <name>Unicorn Abduction</name>
+      <text>If this card is in your Stable at the beginning of your turn, shuffle a Unicorn card from your Stable into the deck, then DRAW a card. If at any time you have no Unicorn cards in your Stable, SACRIFICE this card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/control_chaos/UU-ChCo-035.png">USU</set>
+    </card>
+    <card>
+      <name>Sharing Is Caring</name>
+      <text>Choose a Unicorn from each player's Stable. Shuffle them together, then deal them out face down. Those unicorns come directly into play in the new players' Stables.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+      </prop>
+      <set picURL ="https://unicornsdatabase.com/images/cards/rainbowSprinkles/sharingiscaring.jpg">USU</set>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
