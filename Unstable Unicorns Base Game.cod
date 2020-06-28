@@ -3,6 +3,13 @@
     <deckname>Unstable Unicorns</deckname>
     <comments></comments>
     <zone name="main">
+         <card number="3" name="Basic Unicorn (Red)"/>
+        <card number="3" name="Basic Unicorn (Orange)"/>
+        <card number="3" name="Basic Unicorn (Yellow)"/>
+        <card number="3" name="Basic Unicorn (Green)"/>
+        <card number="3" name="Basic Unicorn (Blue)"/>
+        <card number="3" name="Basic Unicorn (Indigo)"/>
+        <card number="3" name="Basic Unicorn (Purple)"/>
         <card number="1" name="Narwhall"/>
         <card number="1" name="Rhinocorn"/>
         <card number="1" name="Extremely Fertile Unicorn"/>
@@ -81,12 +88,5 @@
         <card number="1" name="Baby Unicorn (Rainbow)"/>
         <card number="1" name="Baby Unicorn (Death)"/>
         <card number="1" name="Baby Narwhal"/>
-        <card number="3" name="Basic Unicorn (Red)"/>
-        <card number="3" name="Basic Unicorn (Orange)"/>
-        <card number="3" name="Basic Unicorn (Yellow)"/>
-        <card number="3" name="Basic Unicorn (Green)"/>
-        <card number="3" name="Basic Unicorn (Blue)"/>
-        <card number="3" name="Basic Unicorn (Indigo)"/>
-        <card number="3" name="Basic Unicorn (Purple)"/>
     </zone>
 </cockatrice_deck>
