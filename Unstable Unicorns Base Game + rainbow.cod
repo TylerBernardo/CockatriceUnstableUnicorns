@@ -74,42 +74,41 @@
         <card number="1" name="Shark With A Horn"/>
         <card number="1" name="Stabby The Unicorn"/>
         <card number="1" name="Unicorn On The Cob"/>
-      //Rainbow Apocalypse
-      <card number ="1" name ="Unicorn of War"/>     
-      <card number ="1" name ="Unicorn of Pestilence"/>
-      <card number ="1" name ="Unicorn of Famine"/>      
-      <card number ="1" name ="Unicorn of Death"/>      
-      <card number ="1" name ="Storm of Cuteness"/>      
-      <card number ="1" name ="Plague of Death"/>      
-      <card number ="3" name ="Neigh, Thank You"/>      
-      <card number ="1" name ="Fire and Brimstonee"/>
-      <card number ="3" name ="Horse With An Ice Cream Cone"/>
-      <card number ="3" name ="Innocent Bunnicorn"/>
-      <card number ="1" name ="Adorable Flying Unicorn"/>
-      <card number ="2" name ="Angel Unicorn"/>
-      <card number ="1" name ="Cotton Candy Llamacorn"/>
-      <card number ="2" name ="Extremely Destructive Unicorn"/>
-      <card number ="2" name ="Extremely Fertile Unicorn"/>
-      <card number ="1" name ="Glitter Unicorn"/>
-      <card number ="2" name ="Llamacorn"/>
-      <card number ="2" name ="Magical Kittencorn"/>
-      <card number ="1" name ="The Magical Pugicorn"/>
-      <card number ="1" name ="The Tiniest Unicorn"/>
-      <card number ="2" name ="Unicorn Phoenix"/>
-      <card number ="2" name ="Zombie Unicorn"/>
-      <card number ="1" name ="Unicorn Rainbow Princess"/>
-      <card number ="2" name ="A Cute Attack"/>
-      <card number ="1" name ="Unicorns of the Apocalypse"/>
-      <card number ="1" name ="Heavenly Smite"/>
-      <card number ="1" name ="Overpopulation"/>
-      <card number ="1" name ="Llamapocalypse"/>
-      <card number ="1" name ="Ultimate Destruction"/>
-      <card number ="1" name ="Zombie Apocalypsee"/>
-      <card number ="2" name ="Unicorn Nap"/>
-      <card number ="1" name ="Cupcakes For Everyone"/>
-      <card number ="2" name ="Special Delivery"/>
-      <card number ="1" name ="Tiny Hooves"/>
-      <card number ="2" name ="Rainbow Sprinkles"/>
+        <card number="3" name="Neigh, Thank You"/>
+        <card number="3" name="Horse With An Ice Cream Cone"/>
+        <card number="3" name="Innocent Bunnicorn"/>
+        <card number="1" name="Adorable Flying Unicorn"/>
+        <card number="2" name="Angel Unicorn"/>
+        <card number="1" name="Cotton Candy Llamacorn"/>
+        <card number="2" name="Extremely Destructive Unicorn"/>
+        <card number="2" name="Extremely Fertile Unicorn"/>
+        <card number="1" name="Glitter Unicorn"/>
+        <card number="2" name="Llamacorn"/>
+        <card number="2" name="Magical Kittencorn"/>
+        <card number="1" name="The Magical Pugicorn"/>
+        <card number="1" name="The Tiniest Unicorn"/>
+        <card number="2" name="Unicorn Phoenix"/>
+        <card number="2" name="Zombie Unicorn"/>
+        <card number="1" name="Unicorn Rainbow Princess"/>
+        <card number="2" name="A Cute Attack"/>
+        <card number="1" name="Unicorns of the Apocalypse"/>
+        <card number="1" name="Heavenly Smite"/>
+        <card number="1" name="Overpopulation"/>
+        <card number="1" name="Llamapocalypse"/>
+        <card number="1" name="Ultimate Destruction"/>
+        <card number="1" name="Zombie Apocalypsee"/>
+        <card number="2" name="Unicorn Nap"/>
+        <card number="1" name="Cupcakes For Everyone"/>
+        <card number="2" name="Special Delivery"/>
+        <card number="1" name="Tiny Hooves"/>
+        <card number="2" name="Rainbow Sprinkles"/>
+        <card number="1" name="Fire And Brimstonee"/>
+        <card number="1" name="Plague Of Death"/>
+        <card number="1" name="Storm Of Cuteness"/>
+        <card number="1" name="Unicorn Of Death"/>
+        <card number="1" name="Unicorn Of Pestilence"/>
+        <card number="1" name="Unicorn Of War"/>
+        <card number="1" name="Unicorn Of Famine"/>
     </zone>
     <zone name="side">
         <card number="1" name="Baby Unicorn (Pink)"/>
@@ -124,7 +123,7 @@
         <card number="1" name="Baby Unicorn (Rainbow)"/>
         <card number="1" name="Baby Unicorn (Death)"/>
         <card number="1" name="Baby Narwhal"/>
-      <card number ="1" name ="Baby Unicorn (Flowers)"/>
-      <card number ="1" name ="Baby Unicorn (Sparkles)"/>
+        <card number="1" name="Baby Unicorn (Flowers)"/>
+        <card number="1" name="Baby Unicorn (Sparkles)"/>
     </zone>
 </cockatrice_deck>
